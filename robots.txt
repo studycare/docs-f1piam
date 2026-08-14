@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-enpbia.shadowdiary.com/sitemap.xml
